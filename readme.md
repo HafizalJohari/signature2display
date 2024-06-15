@@ -37,10 +37,6 @@ Sistem ini membolehkan pengguna untuk menangkap tandatangan secara digital dan m
     npm install
     ```
 
-3. **Konfigurasi SSL (untuk HTTP/2):**
-
-    Pastikan anda mempunyai kunci peribadi dan sijil untuk pelayan anda. Letakkan fail `private-key.pem` dan `certificate.pem` dalam direktori projek anda.
-
 ## Penggunaan
 
 1. **Jalankan Pelayan:**
